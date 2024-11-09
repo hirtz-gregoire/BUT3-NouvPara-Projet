@@ -1,16 +1,20 @@
-package app.Page;
+package app.page;
 
+import app.App;
 import db.DB;
 
+import java.util.Optional;
 import java.util.Scanner;
 
 public abstract class Page {
 
     private static final String pointeur = "> ";
 
-    private DB db;
+    protected App app;
+    protected Optional<DB> db;
 
-    protected Page(DB db){
+    protected Page(App app, Optional<DB> db){
+        this.app = app;
         this.db = db;
     }
 
@@ -27,7 +31,7 @@ public abstract class Page {
         Scanner scanner = new Scanner(System.in);
         System.out.print(pointeur);
         String entry = scanner.nextLine();
-        System.out.println("");
+        System.out.println(" ");
         return entry;
     }
 }

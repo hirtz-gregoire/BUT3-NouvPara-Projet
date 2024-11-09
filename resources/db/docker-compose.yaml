@@ -1,0 +1,8 @@
+services:
+  mongodb:
+    image: mongo:5.0.28
+    container_name: mongodb-server
+    ports:
+      - "27017:27017"
+    volumes:
+      - ../data:/import
