@@ -17,7 +17,7 @@ public class Home extends Page {
                 Accueil
                 1. Films par genres
                 2. Utilisateurs par professions
-                3. Films les plus vus/notés par un catégorie d'âges
+                3. Films les plus vus/notés pour une profession donnée
                 4. Films les plus vus/notés par un catégorie d'âge
                 5. Top5 films notés
                 6. Insertion nouvelle note pour un film

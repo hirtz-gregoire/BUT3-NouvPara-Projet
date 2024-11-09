@@ -6,7 +6,7 @@ echo "Installation de MongoDB via Docker"
 DATA_DIR="../data/"
 
 # Se placer dans le répertoire contenant `docker-compose.yaml`
-cd ../db/ || { echo "Le répertoire ../db/ est introuvable."; exit 1; }
+cd ./resources/db || { echo "Le répertoire ../db/ est introuvable."; exit 1; }
 
 echo "Répertoire courant : $(pwd)"
 
