@@ -1,5 +1,5 @@
 
-# Projet NoSQL <br> Pour une lecture facile : <a href="">ici</a>
+# Projet NoSQL <br> Pour une lecture facile : <a href="https://github.com/hirtz-gregoire/BUT3-NouvPara-Projet/tree/master/resources/doc">ici</a>
 
 ## Grégoire HIRTZ<br>RA-IL2
 
