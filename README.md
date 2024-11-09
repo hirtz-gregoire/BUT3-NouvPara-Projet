@@ -2,7 +2,7 @@
 # Projet NoSQL
 ## Grégoire HIRTZ<br>RA-IL2
 
-Pour une lecture facile, utiliser un lecteur markdow
+Pour une lecture facile, utiliser un lecteur markdown
  - en local
  - en ligne : <a href="https://github.com/hirtz-gregoire/BUT3-NouvPara-Projet/blob/master/README.md">ici</a>
 
