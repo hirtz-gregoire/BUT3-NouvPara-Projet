@@ -2,7 +2,7 @@
 # Projet NoSQL
 Pour une lecture facile, utiliser un lecteur markdow
  - en local
- - en ligne : <a href="https://github.com/hirtz-gregoire/BUT3-NouvPara-Projet/tree/master/resources/doc">ici</a>
+ - en ligne : <a href="https://github.com/hirtz-gregoire/BUT3-NouvPara-Projet/blob/master/README.md">ici</a>
 
 ## Grégoire HIRTZ<br>RA-IL2
 
